@@ -8,3 +8,8 @@ C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Z
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.csproj.CoreCompileInputs.cache
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.exe
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.AddressesForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.BasketForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.FavoriteForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.LoginForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.RegisterForm.resources

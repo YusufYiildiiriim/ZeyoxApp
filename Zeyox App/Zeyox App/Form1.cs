@@ -22,5 +22,28 @@ namespace Zeyox_App
 
         }
 
+        private void FavoriteButton_Click(object sender, EventArgs e)
+        {
+            FavoriteForm favoriteForm = new FavoriteForm();
+            favoriteForm.ShowDialog();
+        }
+
+        private void BasketButton_Click(object sender, EventArgs e)
+        {
+            BasketForm basketForm = new BasketForm();  
+            basketForm.ShowDialog();
+        }
+
+        private void Login_Registerbutton_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+        }
+
+        private void addressbutton_Click(object sender, EventArgs e)
+        {
+            AddressesForm addressForm = new AddressesForm();
+            addressForm.ShowDialog();
+        }
     }
 }
