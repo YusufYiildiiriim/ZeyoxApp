@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\bin\Debug\Zeyox App.exe.config
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\bin\Debug\Zeyox App.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\bin\Debug\Zeyox App.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.MainForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox App.pdb
