@@ -45,5 +45,17 @@ namespace Zeyox_App
             AddressesForm addressForm = new AddressesForm();
             addressForm.ShowDialog();
         }
+
+        private void RegisterButton_Click(object sender, EventArgs e)
+        {
+            RegisterForm registerForm = new RegisterForm();
+            registerForm.ShowDialog();
+        }
+
+        private void OrderOperations_Click(object sender, EventArgs e)
+        {
+            OrderOperations ordersForm = new OrderOperations();
+            ordersForm.ShowDialog();
+        }
     }
 }

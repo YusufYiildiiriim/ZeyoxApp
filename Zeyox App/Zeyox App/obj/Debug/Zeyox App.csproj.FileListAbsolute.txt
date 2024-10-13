@@ -13,3 +13,4 @@ C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Z
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.FavoriteForm.resources
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.LoginForm.resources
 C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.RegisterForm.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\Zeyox Projesi\Zeyox App\Zeyox App\obj\Debug\Zeyox_App.OrderOperations.resources

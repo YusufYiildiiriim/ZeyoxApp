@@ -30,11 +30,19 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
+            this.OrderOperations = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.RegisterButton = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.addressbutton = new System.Windows.Forms.Button();
+            this.LoginButton = new System.Windows.Forms.Button();
+            this.BasketButton = new System.Windows.Forms.Button();
+            this.FavoriteButton = new System.Windows.Forms.Button();
             this.searchbar = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -44,23 +52,23 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.addressbutton = new System.Windows.Forms.Button();
-            this.Login_Registerbutton = new System.Windows.Forms.Button();
-            this.BasketButton = new System.Windows.Forms.Button();
-            this.FavoriteButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.label7);
+            this.panel1.Controls.Add(this.OrderOperations);
+            this.panel1.Controls.Add(this.label6);
+            this.panel1.Controls.Add(this.RegisterButton);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.addressbutton);
-            this.panel1.Controls.Add(this.Login_Registerbutton);
+            this.panel1.Controls.Add(this.LoginButton);
             this.panel1.Controls.Add(this.BasketButton);
             this.panel1.Controls.Add(this.FavoriteButton);
             this.panel1.Controls.Add(this.searchbar);
@@ -69,9 +77,47 @@
             this.panel1.Size = new System.Drawing.Size(1231, 76);
             this.panel1.TabIndex = 0;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(1131, 56);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(70, 13);
+            this.label7.TabIndex = 9;
+            this.label7.Text = "Diğer İşlemler";
+            // 
+            // OrderOperations
+            // 
+            this.OrderOperations.Image = ((System.Drawing.Image)(resources.GetObject("OrderOperations.Image")));
+            this.OrderOperations.Location = new System.Drawing.Point(1143, 3);
+            this.OrderOperations.Name = "OrderOperations";
+            this.OrderOperations.Size = new System.Drawing.Size(50, 50);
+            this.OrderOperations.TabIndex = 9;
+            this.OrderOperations.UseVisualStyleBackColor = true;
+            this.OrderOperations.Click += new System.EventHandler(this.OrderOperations_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(853, 54);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(43, 13);
+            this.label6.TabIndex = 3;
+            this.label6.Text = "Kayıt Ol";
+            // 
+            // RegisterButton
+            // 
+            this.RegisterButton.Image = ((System.Drawing.Image)(resources.GetObject("RegisterButton.Image")));
+            this.RegisterButton.Location = new System.Drawing.Point(846, 3);
+            this.RegisterButton.Name = "RegisterButton";
+            this.RegisterButton.Size = new System.Drawing.Size(50, 50);
+            this.RegisterButton.TabIndex = 2;
+            this.RegisterButton.UseVisualStyleBackColor = true;
+            this.RegisterButton.Click += new System.EventHandler(this.RegisterButton_Click);
+            // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(774, 21);
+            this.button1.Location = new System.Drawing.Point(668, 22);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(89, 28);
             this.button1.TabIndex = 1;
@@ -81,7 +127,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(1158, 57);
+            this.label4.Location = new System.Drawing.Point(1042, 55);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(69, 13);
             this.label4.TabIndex = 1;
@@ -90,11 +136,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1048, 57);
+            this.label3.Location = new System.Drawing.Point(947, 55);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 13);
+            this.label3.Size = new System.Drawing.Size(47, 13);
             this.label3.TabIndex = 1;
-            this.label3.Text = "Giriş yap/Kaydol";
+            this.label3.Text = "Giriş yap";
             // 
             // label2
             // 
@@ -114,9 +160,50 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Favoriler";
             // 
+            // addressbutton
+            // 
+            this.addressbutton.Image = ((System.Drawing.Image)(resources.GetObject("addressbutton.Image")));
+            this.addressbutton.Location = new System.Drawing.Point(1049, 3);
+            this.addressbutton.Name = "addressbutton";
+            this.addressbutton.Size = new System.Drawing.Size(50, 50);
+            this.addressbutton.TabIndex = 1;
+            this.addressbutton.UseVisualStyleBackColor = true;
+            this.addressbutton.Click += new System.EventHandler(this.addressbutton_Click);
+            // 
+            // LoginButton
+            // 
+            this.LoginButton.AllowDrop = true;
+            this.LoginButton.Image = ((System.Drawing.Image)(resources.GetObject("LoginButton.Image")));
+            this.LoginButton.Location = new System.Drawing.Point(944, 2);
+            this.LoginButton.Name = "LoginButton";
+            this.LoginButton.Size = new System.Drawing.Size(50, 50);
+            this.LoginButton.TabIndex = 1;
+            this.LoginButton.UseVisualStyleBackColor = true;
+            this.LoginButton.Click += new System.EventHandler(this.Login_Registerbutton_Click);
+            // 
+            // BasketButton
+            // 
+            this.BasketButton.Image = global::Zeyox_App.Properties.Resources.basket;
+            this.BasketButton.Location = new System.Drawing.Point(110, 3);
+            this.BasketButton.Name = "BasketButton";
+            this.BasketButton.Size = new System.Drawing.Size(50, 50);
+            this.BasketButton.TabIndex = 1;
+            this.BasketButton.UseVisualStyleBackColor = true;
+            this.BasketButton.Click += new System.EventHandler(this.BasketButton_Click);
+            // 
+            // FavoriteButton
+            // 
+            this.FavoriteButton.Image = ((System.Drawing.Image)(resources.GetObject("FavoriteButton.Image")));
+            this.FavoriteButton.Location = new System.Drawing.Point(3, 3);
+            this.FavoriteButton.Name = "FavoriteButton";
+            this.FavoriteButton.Size = new System.Drawing.Size(50, 50);
+            this.FavoriteButton.TabIndex = 1;
+            this.FavoriteButton.UseVisualStyleBackColor = true;
+            this.FavoriteButton.Click += new System.EventHandler(this.FavoriteButton_Click);
+            // 
             // searchbar
             // 
-            this.searchbar.Location = new System.Drawing.Point(295, 19);
+            this.searchbar.Location = new System.Drawing.Point(192, 18);
             this.searchbar.Multiline = true;
             this.searchbar.Name = "searchbar";
             this.searchbar.Size = new System.Drawing.Size(470, 34);
@@ -223,47 +310,6 @@
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button4.UseVisualStyleBackColor = true;
             // 
-            // addressbutton
-            // 
-            this.addressbutton.Image = ((System.Drawing.Image)(resources.GetObject("addressbutton.Image")));
-            this.addressbutton.Location = new System.Drawing.Point(1168, 4);
-            this.addressbutton.Name = "addressbutton";
-            this.addressbutton.Size = new System.Drawing.Size(50, 50);
-            this.addressbutton.TabIndex = 1;
-            this.addressbutton.UseVisualStyleBackColor = true;
-            this.addressbutton.Click += new System.EventHandler(this.addressbutton_Click);
-            // 
-            // Login_Registerbutton
-            // 
-            this.Login_Registerbutton.AllowDrop = true;
-            this.Login_Registerbutton.Image = ((System.Drawing.Image)(resources.GetObject("Login_Registerbutton.Image")));
-            this.Login_Registerbutton.Location = new System.Drawing.Point(1063, 3);
-            this.Login_Registerbutton.Name = "Login_Registerbutton";
-            this.Login_Registerbutton.Size = new System.Drawing.Size(50, 50);
-            this.Login_Registerbutton.TabIndex = 1;
-            this.Login_Registerbutton.UseVisualStyleBackColor = true;
-            this.Login_Registerbutton.Click += new System.EventHandler(this.Login_Registerbutton_Click);
-            // 
-            // BasketButton
-            // 
-            this.BasketButton.Image = global::Zeyox_App.Properties.Resources.basket;
-            this.BasketButton.Location = new System.Drawing.Point(110, 3);
-            this.BasketButton.Name = "BasketButton";
-            this.BasketButton.Size = new System.Drawing.Size(50, 50);
-            this.BasketButton.TabIndex = 1;
-            this.BasketButton.UseVisualStyleBackColor = true;
-            this.BasketButton.Click += new System.EventHandler(this.BasketButton_Click);
-            // 
-            // FavoriteButton
-            // 
-            this.FavoriteButton.Image = ((System.Drawing.Image)(resources.GetObject("FavoriteButton.Image")));
-            this.FavoriteButton.Location = new System.Drawing.Point(3, 3);
-            this.FavoriteButton.Name = "FavoriteButton";
-            this.FavoriteButton.Size = new System.Drawing.Size(50, 50);
-            this.FavoriteButton.TabIndex = 1;
-            this.FavoriteButton.UseVisualStyleBackColor = true;
-            this.FavoriteButton.Click += new System.EventHandler(this.FavoriteButton_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -275,7 +321,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Zeypx App";
+            this.Text = "Zeyox App";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -291,7 +337,7 @@
         private System.Windows.Forms.TextBox searchbar;
         private System.Windows.Forms.Button FavoriteButton;
         private System.Windows.Forms.Button BasketButton;
-        private System.Windows.Forms.Button Login_Registerbutton;
+        private System.Windows.Forms.Button LoginButton;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
@@ -306,6 +352,10 @@
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button RegisterButton;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button OrderOperations;
     }
 }
 
