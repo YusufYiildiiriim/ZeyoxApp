@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\zeyox projesi\\zeyox app\\zeyox app\\orderoperations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\orderoperations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\zeyox projesi\\zeyox app\\zeyox app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\zeyox projesi\\zeyox app\\zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEA8027-6804-4660-9E3D-59746C60E853}|Zeyox App\\Zeyox App.csproj|solutionrelative:zeyox app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,96 +58,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderOperations.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\OrderOperations.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.cs",
-              "RelativeToolTip": "Zeyox App\\OrderOperations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:07:37.932Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderOperations.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\OrderOperations.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.cs [Design]",
-              "RelativeToolTip": "Zeyox App\\OrderOperations.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:00:35.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderOperations.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.Designer.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\OrderOperations.Designer.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\OrderOperations.Designer.cs",
-              "RelativeToolTip": "Zeyox App\\OrderOperations.Designer.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAnwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:07:43.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Zeyox App\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.Designer.cs",
               "RelativeToolTip": "Zeyox App\\Form1.Designer.cs",
-              "ViewState": "AQIAACoBAAAAAAAAAAAnwDgBAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:56:44.986Z"
+              "WhenOpened": "2024-10-19T14:29:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "Zeyox App\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:54:58.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs",
-              "RelativeToolTip": "Zeyox App\\Form1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAIAwwDYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:47:02.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Zeyox App\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\LoginForm.cs [Design]",
-              "RelativeToolTip": "Zeyox App\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:37:29.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs",
               "RelativeDocumentMoniker": "Zeyox App\\Form1.cs",
               "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs [Design]",
               "RelativeToolTip": "Zeyox App\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T11:27:25.567Z"
+              "WhenOpened": "2024-10-11T11:27:25.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs",
+              "RelativeDocumentMoniker": "Zeyox App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Zeyox Projesi\\Zeyox App\\Zeyox App\\Form1.cs",
+              "RelativeToolTip": "Zeyox App\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:47:02.451Z",
+              "EditorCaption": ""
             }
           ]
         },
